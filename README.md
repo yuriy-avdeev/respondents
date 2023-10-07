@@ -1,7 +1,7 @@
 # Respondents    
 ### Constructor app for creating surveys created with Vue and Nuxt(SPA).     
 
-https://yuryavdeev.github.io/respondents/survey/create-survey/responds    
+https://yuriy-avdeev.github.io/respondents/survey/create-survey/responds
 
 The main functionality is available on the route - /survey/create-survey/responds:    
 1. There are three conditions available that can be added to the survey form by selecting them from the drop down list,
